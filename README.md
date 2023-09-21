@@ -12,7 +12,7 @@
 -  💼 I've been working with Data Science since 2021  
   
 
--  🧰 I have experience with Python, R, Stata, SQL and Excel  
+-  🧰 I have experience with Python, R, Stata, SQL, Airflow and Excel  
   
 
 - 📝 I write articles on [Medium](https://medium.com/@vitortbarboza)  
